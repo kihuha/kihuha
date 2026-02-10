@@ -43,7 +43,7 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-Familiar-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-Expired-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Expired-4285F4?style=flat&logo=google-cloud&logoColor=red)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
