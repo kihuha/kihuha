@@ -28,6 +28,8 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 ![Angular](https://img.shields.io/badge/Angular-Expert-DD0031?style=flat&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -35,15 +37,19 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 
+### Data Science & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=flat&logo=numpy&logoColor=white)
+
 ### AI & Automation
 - OpenAI GPT-5, OpenAI Computer-Use Model
 - Playwright Automation
 - Machine Learning for Financial Transaction Analysis
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-Familiar-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-Expired-4285F4?style=flat&logo=google-cloud&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Familiar-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Expired-red?style=flat&logo=googlecloud&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -94,7 +100,7 @@ I'm passionate about:
 
 I'm always interested in collaborating on innovative projects, especially in FinTech, AI automation, and cloud-native applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kihuha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darius-njihia/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/kihuha)
 
 ---
