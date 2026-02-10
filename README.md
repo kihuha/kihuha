@@ -57,7 +57,7 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 *2022 – 2024 | Merit Award*  
 - Thesis: *Improving transaction ranking and classification to identify suspicious financial transactions using ensemble machine learning*
 
-**Bachelor's of Business and Information Technology** | Multimedia University  
+**Bachelor of Business and Information Technology** | Multimedia University  
 *2014 – 2018 | Second Class Honours*
 
 ---
