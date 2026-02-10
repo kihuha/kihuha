@@ -8,8 +8,8 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 
 🔭 **Currently building:** VAS and FinTech automation systems at Mastercard  
 🌱 **Currently learning:** Rust, Go, and AWS (preparing for certification)  
-🎓 **Education:** MSc in Computer Science (Merit) from University of York  
-🔬 **Research Focus:** Applied ML for fraud detection and transaction analysis
+🎓 **Education:** MSc in Computer Science from the University of York  
+
 
 ---
 
@@ -41,9 +41,9 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 - Machine Learning for Financial Transaction Analysis
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Familiar-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-Expired-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -54,11 +54,11 @@ I specialize in **full-stack development**, with deep expertise spanning both fr
 ## 🎓 Education
 
 **Master of Science in Computer Science** | University of York  
-*2022 – 2024 | Merit Award*  
+*2022 – 2024 
 - Thesis: *Improving transaction ranking and classification to identify suspicious financial transactions using ensemble machine learning*
 
 **Bachelor of Business and Information Technology** | Multimedia University  
-*2014 – 2018 | Second Class Honours*
+*2014 – 2018 
 
 ---
 
@@ -85,7 +85,7 @@ I'm passionate about:
 - **System Design & Architecture:** Microservices, API Design, Distributed Systems
 - **Full-Stack Development:** End-to-end application development and deployment
 - **Agile Development:** Sprint planning, code reviews, continuous delivery
-- **Testing & Quality:** Automated testing with Playwright, performance optimization
+- **Testing & Quality:** Automated testing with Playwright, performance optimisation
 - **Cross-Functional Collaboration:** Bridging technical and business stakeholders
 
 ---
